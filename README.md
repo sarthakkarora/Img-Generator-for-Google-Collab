@@ -1,4 +1,4 @@
-# AI Image Generation using Stable Diffusion (GOOGLE COLLAB)
+# AI Image Generation using Stable Diffusion (Google Collab)
 
 This repository contains a Google Colab script for generating images using AI-powered Stable Diffusion models. The script utilizes the `diffusers` library from Hugging Face along with PyTorch to create high-quality images from text prompts.
 
@@ -39,7 +39,9 @@ To run the script in Google Colab:
 3. Run the script by executing the cells.
 
 ## Example Output
-The generated images will be saved in the `output/` directory with the specified filename.
+
+<img src="https://github.com/user-attachments/assets/3dd10b55-9784-4a3a-b4b9-5d58cfe3401c" width="400"/>
+
 
 ## Dependencies
 - Python 3.x
